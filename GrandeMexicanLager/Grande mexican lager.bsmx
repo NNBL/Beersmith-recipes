@@ -1,4 +1,4 @@
-<Selections><_MOD_>1978-10-02</_MOD_>
+<Selections><_MOD_>1978-09-16</_MOD_>
 <Name>Selections</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
@@ -7,7 +7,7 @@
 <Size>1</Size>
 <_XName>Selections</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2014-02-10</_MOD_>
+<Data><Recipe><_MOD_>2014-02-18</_MOD_>
 <F_R_NAME>Grande mexican Lager</F_R_NAME>
 <F_R_BREWER></F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -85,7 +85,7 @@ Mouthfeel: Full. </F_S_DESCRIPTION>
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2014-02-10</_MOD_>
 <F_MH_NAME>BIAB, Full Body</F_MH_NAME>
-<F_MH_GRAIN_WEIGHT>221.1677793</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_WEIGHT>221.1677794</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>71.9600000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
 <F_MH_TUN_TEMP>71.9600000</F_MH_TUN_TEMP>
@@ -100,7 +100,7 @@ Mouthfeel: Full. </F_S_DESCRIPTION>
 <F_MH_BIAB_VOL>974.1280783</F_MH_BIAB_VOL>
 <F_MH_BIAB>1</F_MH_BIAB>
 <F_MH_NOTES>Brew in a bag method where the full boil volume is mashed within the boil vessel and then the grains are withdrawn at the end of the mash.  No active sparging is required. This is a full body beer profile.</F_MH_NOTES>
-<steps><_MOD_>1970-01-01</_MOD_>
+<steps><_MOD_>2014-02-14</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -124,7 +124,7 @@ Mouthfeel: Full. </F_S_DESCRIPTION>
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>71.9600000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>221.1677793</F_MS_GRAIN_WEIGHT>
+<F_MS_GRAIN_WEIGHT>221.1677794</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>129.0566627</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
@@ -143,7 +143,7 @@ Mouthfeel: Full. </F_S_DESCRIPTION>
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>71.9600000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>974.1280783</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>221.1677793</F_MS_GRAIN_WEIGHT>
+<F_MS_GRAIN_WEIGHT>221.1677794</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>120.0000000</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
@@ -202,13 +202,13 @@ Mouthfeel: Full. </F_S_DESCRIPTION>
 <F_A_END_AGE_TEMP>33.8000000</F_A_END_AGE_TEMP>
 <F_A_END_TEMPS_SET>1</F_A_END_TEMPS_SET>
 <F_A_PRIM_DAYS>6.0000000</F_A_PRIM_DAYS>
-<F_A_SEC_DAYS>3.0000000</F_A_SEC_DAYS>
-<F_A_TERT_DAYS>5.0000000</F_A_TERT_DAYS>
+<F_A_SEC_DAYS>8.0000000</F_A_SEC_DAYS>
+<F_A_TERT_DAYS>3.0000000</F_A_TERT_DAYS>
 <F_A_AGE>30.0000000</F_A_AGE>
 <F_A_TYPE>2</F_A_TYPE>
 <F_A_NOTES>Three stage lager fermentation - two are used for the fermentation itself, with the tertiary fermentation used as a diacytl rest.</F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1970-01-01</_MOD_>
+<Ingredients><_MOD_>2014-02-14</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -217,7 +217,25 @@ Mouthfeel: Full. </F_S_DESCRIPTION>
 <Size>10</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1970-01-01</_MOD_>
+<Data><Misc><_MOD_>1978-09-15</_MOD_>
+<F_M_NAME>PH 5.2 Stabilizer</F_M_NAME>
+<F_M_TYPE>5</F_M_TYPE>
+<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
+<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
+<F_M_UNITS>7</F_M_UNITS>
+<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>1</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>90.0000000</F_M_TIME>
+<F_M_NOTES>PH 5.2 Stabilizer by Five Star is a prioprietary mix of phosphate buffers used to lower the PH of your Mash to 5.2 for brewing.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>1</F_ORDER>
+</Misc>
+<Grain><_MOD_>1978-09-15</_MOD_>
 <F_G_NAME>Pale Malt (2 Row) US</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -244,7 +262,7 @@ Mouthfeel: Full. </F_S_DESCRIPTION>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2014-02-10</_MOD_>
+<Grain><_MOD_>2014-02-18</_MOD_>
 <F_G_NAME>Corn, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -273,7 +291,7 @@ Uses: Primarily for light Bohemian and Pilsner lagers</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Sugar, Table (Sucrose)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2014-02-10</_MOD_>
+<Grain><_MOD_>2014-02-18</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -301,14 +319,14 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2014-02-18</_MOD_>
 <F_H_NAME>Hallertauer Hersbrucker</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>4.5000000</F_H_ALPHA>
 <F_H_BETA>6.0000000</F_H_BETA>
-<F_H_PERCENT>28.2828283</F_H_PERCENT>
+<F_H_PERCENT>28.2828275</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.8938207</F_H_AMOUNT>
 <F_H_HSI>25.0000000</F_H_HSI>
@@ -318,20 +336,20 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 Aroma: Noble, pleasant, clean flavor
 Substitutes: Mt. Hood, Liberty, Hallertauer, Mittelfrueh
 Examples: Wheathook Wheaten Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>12.7753229</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>12.7753225</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2014-02-18</_MOD_>
 <F_H_NAME>Saaz</F_H_NAME>
 <F_H_ORIGIN>Czech Republic</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>4.0000000</F_H_ALPHA>
 <F_H_BETA>3.5000000</F_H_BETA>
-<F_H_PERCENT>43.4343434</F_H_PERCENT>
+<F_H_PERCENT>43.4343449</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.3726533</F_H_AMOUNT>
 <F_H_HSI>42.0000000</F_H_HSI>
@@ -341,20 +359,38 @@ Examples: Wheathook Wheaten Ale</F_H_NOTES>
 Aroma: Delicate, mild, clean, somewhat floral -- Noble hops
 Substitutes: Tettnanger, Lublin
 Examples: Pulsner Urquell</F_H_NOTES>
-<F_H_IBU_CONTRIB>13.7052944</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>13.7052948</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2014-02-18</_MOD_>
+<F_M_NAME>Irish Moss</F_M_NAME>
+<F_M_TYPE>1</F_M_TYPE>
+<F_M_USE_FOR>Clarity</F_M_USE_FOR>
+<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
+<F_M_UNITS>1</F_M_UNITS>
+<F_M_AMOUNT>13.0000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Fining agent that aids in the post-boil protein break.  Reduces protein chill haze and improves beer clarity.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>7</F_ORDER>
+</Misc>
+<Hops><_MOD_>2014-02-18</_MOD_>
 <F_H_NAME>Saaz</F_H_NAME>
 <F_H_ORIGIN>Czech Republic</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>4.0000000</F_H_ALPHA>
 <F_H_BETA>3.5000000</F_H_BETA>
-<F_H_PERCENT>28.2828283</F_H_PERCENT>
+<F_H_PERCENT>28.2828275</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.8938207</F_H_AMOUNT>
 <F_H_HSI>42.0000000</F_H_HSI>
@@ -364,13 +400,31 @@ Examples: Pulsner Urquell</F_H_NOTES>
 Aroma: Delicate, mild, clean, somewhat floral -- Noble hops
 Substitutes: Tettnanger, Lublin
 Examples: Pulsner Urquell</F_H_NOTES>
-<F_H_IBU_CONTRIB>4.2103092</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>4.2103091</F_H_IBU_CONTRIB>
 <F_ORDER>8</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1978-11-28</_MOD_>
+<Misc><_MOD_>2014-02-18</_MOD_>
+<F_M_NAME>Yeast Nutrient</F_M_NAME>
+<F_M_TYPE>4</F_M_TYPE>
+<F_M_USE_FOR>Fermentation</F_M_USE_FOR>
+<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
+<F_M_UNITS>6</F_M_UNITS>
+<F_M_AMOUNT>0.5000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>10.0000000</F_M_TIME>
+<F_M_NOTES>Gives yeast nutrients for healthy fermentation.  Not needed for most beers, but good for those with a high percentage of adjuncts.  Add before yeast.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>9</F_ORDER>
+</Misc>
+<Yeast><_MOD_>2014-02-18</_MOD_>
 <F_Y_NAME>German Lager</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP830</F_Y_PRODUCT_ID>
@@ -398,60 +452,6 @@ Examples: Pulsner Urquell</F_H_NOTES>
 <F_Y_BEST_FOR>German Marzen, Pilsner, Lagers, Oktoberfest beers.</F_Y_BEST_FOR>
 <F_Y_NOTES>Very malty and clean.  One of the world&#39;s most popular lager yeasts.</F_Y_NOTES>
 </Yeast>
-<Misc><_MOD_>1970-01-01</_MOD_>
-<F_M_NAME>Yeast Nutrient</F_M_NAME>
-<F_M_TYPE>4</F_M_TYPE>
-<F_M_USE_FOR>Fermentation</F_M_USE_FOR>
-<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
-<F_M_UNITS>6</F_M_UNITS>
-<F_M_AMOUNT>0.5000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>0</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>10.0000000</F_M_TIME>
-<F_M_NOTES>Gives yeast nutrients for healthy fermentation.  Not needed for most beers, but good for those with a high percentage of adjuncts.  Add before yeast.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>9</F_ORDER>
-</Misc>
-<Misc><_MOD_>1970-01-01</_MOD_>
-<F_M_NAME>Irish Moss</F_M_NAME>
-<F_M_TYPE>1</F_M_TYPE>
-<F_M_USE_FOR>Clarity</F_M_USE_FOR>
-<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
-<F_M_UNITS>1</F_M_UNITS>
-<F_M_AMOUNT>13.0000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>0</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>10.0000000</F_M_TIME>
-<F_M_NOTES>Fining agent that aids in the post-boil protein break.  Reduces protein chill haze and improves beer clarity.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>7</F_ORDER>
-</Misc>
-<Misc><_MOD_>1978-11-28</_MOD_>
-<F_M_NAME>PH 5.2 Stabilizer</F_M_NAME>
-<F_M_TYPE>5</F_M_TYPE>
-<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
-<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
-<F_M_UNITS>7</F_M_UNITS>
-<F_M_AMOUNT>2.0000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>1</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>90.0000000</F_M_TIME>
-<F_M_NOTES>PH 5.2 Stabilizer by Five Star is a prioprietary mix of phosphate buffers used to lower the PH of your Mash to 5.2 for brewing.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>1</F_ORDER>
-</Misc>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
@@ -459,7 +459,7 @@ Examples: Pulsner Urquell</F_H_NOTES>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
 <F_R_OG_MEASURED>1.0710000</F_R_OG_MEASURED>
-<F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
+<F_R_FG_MEASURED>1.0140000</F_R_FG_MEASURED>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
